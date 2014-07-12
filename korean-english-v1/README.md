@@ -1,3 +1,4 @@
+Reference:
 Jungyeul Park and Jeong-Won Cha (2008). 
 A Hybrid Sentence Alignment Method for Building a Korean-English Parallel Corpus. 
 Malsori - The Journal of Korean Society Of Phonetic Sciences And Speech Technology. 
