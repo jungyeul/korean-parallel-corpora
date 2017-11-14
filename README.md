@@ -1,4 +1,4 @@
-Korean Parallel corpora
+Korean Parallel corpora (of https://sites.google.com/site/koreanparalleldata/) 
 
 See also JHE evaluation data (dev and eval), available at https://doi.org/10.5281/zenodo.891295
 
