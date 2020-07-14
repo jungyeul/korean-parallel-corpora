@@ -10,4 +10,4 @@ Please post any questions about the corpus to jungyeul.park (AT) gmail.com
 
 We welcome any contribution of Korean-English parallel data that you might want to share with other people. 
 
-(July 2020) North Korean dev and test files are added. 
+(July 2020) North Korean dev and test files are added (korean-english-news-v1-NK). 
