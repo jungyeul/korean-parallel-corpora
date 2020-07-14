@@ -8,4 +8,6 @@ Korean Parallel corpora are made available under the terms of the Creative Commo
 
 Please post any questions about the corpus to jungyeul.park (AT) gmail.com
 
-*NEW*: We welcome any contribution of Korean-English parallel data that you might want to share with other people. 
+We welcome any contribution of Korean-English parallel data that you might want to share with other people. 
+
+(July 2020) North Korean dev and test files are added. 
