@@ -10,4 +10,7 @@ Please post any questions about the corpus to jungyeul.park (AT) gmail.com
 
 We welcome any contribution of Korean-English parallel data that you might want to share with other people. 
 
+(December 2020) A Korean raw text collection for creating a language model is available at http://doi.org/10.5281/zenodo.4317288
 (July 2020) North Korean dev and test files are added (korean-english-news-v1-NK). 
+
+
