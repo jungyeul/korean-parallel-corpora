@@ -1,4 +1,4 @@
-# ==> bible-all.en.txt <==
+### ==> bible-all.en.txt <==
 * Genesis1.1  In the beginning God created the heavens and the earth.
 * Genesis1.2  Now the earth was formless and empty, darkness was over the surface of the deep, and the Spirit of God was hovering over the waters.
 * Genesis1.3  And God said, "Let there be light," and there was light.
@@ -10,7 +10,7 @@
 * Genesis1.9  And God said, "Let the water under the sky be gathered to one place, and let dry ground appear." And it was so.
 * Genesis1.10  God called the dry ground "land," and the gathered waters he called "seas." And God saw that it was good.
 
-# ==> bible-all.kr.txt <==
+### ==> bible-all.kr.txt <==
 * Genesis1.1  태초에 하나님이 천지를 창조하셨다.
 * Genesis1.2  땅이 혼돈하고 공허하며, 어둠이 깊음 위에 있고, 하나님의 영은 물 위에 움직이고 계셨다.
 * Genesis1.3  하나님이 말씀하시기를 "빛이 생겨라" 하시니, 빛이 생겼다.
