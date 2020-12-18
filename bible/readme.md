@@ -29,3 +29,8 @@
    31103  661648 5783870 bible-all.kr.txt
    62206 1417685 10019289 total
 ```
+
+To remove identifiers at the beginning of the sentence
+```
+>>> cut -f2- -d" " bible-all.kr.txt | sed 's/^ //g' > bible-all.kr.clean.txt
+```
